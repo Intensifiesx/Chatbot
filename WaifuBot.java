@@ -1,6 +1,6 @@
 
 /*
- * Name: Zain Hindi, Pari Limaye
+ * Name: Zain, Pari
  * Date: 10/29/19
  * Program: Chat Bot
  */
